@@ -1,0 +1,11 @@
+pyproject.toml
+fvm_isotropic_hardening/__init__.py
+fvm_isotropic_hardening/example_usage.py
+fvm_isotropic_hardening/finite_strain_von_mises_model.py
+fvm_isotropic_hardening/material_state.py
+fvm_isotropic_hardening/tensor_ops.py
+fvm_isotropic_hardening.egg-info/PKG-INFO
+fvm_isotropic_hardening.egg-info/SOURCES.txt
+fvm_isotropic_hardening.egg-info/dependency_links.txt
+fvm_isotropic_hardening.egg-info/requires.txt
+fvm_isotropic_hardening.egg-info/top_level.txt

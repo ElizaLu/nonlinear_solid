@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: fvm-isotropic-hardening
+Version: 0.1.0
+Summary: Finite strain J2 plasticity with isotropic hardening
+Requires-Python: >=3.10
+Requires-Dist: numpy>=2.0

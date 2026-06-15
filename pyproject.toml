@@ -1,0 +1,9 @@
+[project]
+name = "fvm-isotropic-hardening"
+version = "0.1.0"
+description = "Finite strain J2 plasticity with isotropic hardening"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy>=2.0"
+]
